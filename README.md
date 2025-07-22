@@ -3,15 +3,10 @@
 This project implements a serverless ETL (Extract, Transform, Load) pipeline to ingest and analyze data from the Spotify API using AWS cloud services.
 Complete Data Pipeline Data Engineering Project using Spotify
 
---**Integrating with Spotify API and extracting Data
---Deploying code on AWS Lambda for Data Extraction
---Adding trigger to run the extraction automatically
---Writing transformation function
---Building automated trigger on transformation function
---Store files on S3 properly
---Building Analytics Tables on data files using Glue and Athena
+
 
 ## 📌 Overview
+
 
 The ETL pipeline extracts music data from the Spotify API, transforms the raw data, and loads it into AWS Athena for analytics using the following services:
 
