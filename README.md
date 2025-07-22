@@ -20,7 +20,7 @@ The ETL pipeline extracts music data from the Spotify API, transforms the raw da
 
 ## 📊 Architecture Diagram
 
-![ETL Diagram](./Screenshot%202025-07-21%20at%209.00.13 PM.png)
+![ETL Diagram](./Arch.png)
 
 ---
 
